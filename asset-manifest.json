@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/forher/static/css/main.2eed00ca.css",
+    "main.js": "/forher/static/js/main.49222836.js",
+    "static/media/robot.png": "/forher/static/media/robot.051e77d3c637e309ea7b.png",
+    "index.html": "/forher/index.html",
+    "main.2eed00ca.css.map": "/forher/static/css/main.2eed00ca.css.map",
+    "main.49222836.js.map": "/forher/static/js/main.49222836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eed00ca.css",
+    "static/js/main.49222836.js"
+  ]
+}
